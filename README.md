@@ -5,8 +5,8 @@ Users can also edit their profiles.
 
 To run this website download the code or clone this repo from https://github.com/dahalprabhu/Quick-Share.git in your terminal.
 You should have Django installed in your system, then run the following migration command.
-python manage.py makemigrations
-python manage.py migrate
+'python manage.py makemigrations'
+'python manage.py migrate'
 
 Now, run 'python manage.py runserver' to deploy the website in your localhost.
 
